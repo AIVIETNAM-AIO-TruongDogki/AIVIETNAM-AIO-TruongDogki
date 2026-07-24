@@ -12,7 +12,6 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 
 - 🔭 Building **AI Engineering & Computer Vision** projects
 - 🧠 Exploring **LLMs, RAG, and Multi-Agent Systems**
-- 🔎 Working with **Information Retrieval and Vector Databases**
 - ⚙️ Learning **MLOps and production-ready AI systems**
 - 🏗️ Improving my skills in **AI System Design**
 
