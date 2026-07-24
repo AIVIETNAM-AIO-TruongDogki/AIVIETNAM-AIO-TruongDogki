@@ -49,21 +49,5 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=AIVIETNAM-AIO-TruongDogki&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=AIVIETNAM-AIO-TruongDogki&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AIVIETNAM-AIO-TruongDogki&hide_border=true&layout=compact" />
-
-</div>
-
----
 
