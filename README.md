@@ -6,15 +6,6 @@ I'm currently pursuing a degree in Computer Science at **Ho Chi Minh City Univer
 
 My goal is to become an **AI Engineer** who can build reliable and scalable AI systems, from model development to production deployment.
 
-I'm particularly interested in:
-
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 🧠 NLP & Large Language Models
-- 🔎 RAG & Information Retrieval
-- 🤝 Multi-Agent Systems
-- ⚙️ MLOps & AI System Design
-
 ---
 
 ## 🚀 What I'm Working On
@@ -56,3 +47,14 @@ I'm particularly interested in:
 
 ## ⭐ Featured Projects
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=truongdogki&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img src="https://streak-stats.demolab.com/?user=truongdogki&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=truongdogki&theme=dark&hide_border=true&layout=compact" />
+
+</div>
