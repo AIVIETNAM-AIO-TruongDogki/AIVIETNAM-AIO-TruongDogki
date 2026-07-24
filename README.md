@@ -1,15 +1,113 @@
-# 💫 About Me:
-🔭 Currently working on AI Engineering & Computer Vision projects<br>🌱 Learning LLMs, RAG, Computer Vision, MLOps & AI System Design<br>👯 Looking to collaborate on AI/ML & Computer Vision projects<br>💬 Ask me about ML, DL, Computer Vision & AI Engineering
+# 👋 Hi, I'm Trường
 
+### AI Engineer in Progress | Computer Science Student @ HCMUT
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pham.truong.33963) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/truongdogki/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.phamviettruong@gmail.com) 
+I'm currently pursuing a degree in Computer Science at **Ho Chi Minh City University of Technology (HCMUT)**.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AIVIETNAM-AIO-TruongDogki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AIVIETNAM-AIO-TruongDogki&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AIVIETNAM-AIO-TruongDogki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My goal is to become an **AI Engineer** who can build reliable and scalable AI systems, from model development to production deployment.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm particularly interested in:
+
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 🧠 NLP & Large Language Models
+- 🔎 RAG & Information Retrieval
+- 🤝 Multi-Agent Systems
+- ⚙️ MLOps & AI System Design
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔭 Building **AI Engineering & Computer Vision** projects
+- 🧠 Exploring **LLMs, RAG, and Multi-Agent Systems**
+- 🔎 Working with **Information Retrieval and Vector Databases**
+- ⚙️ Learning **MLOps and production-ready AI systems**
+- 🏗️ Improving my skills in **AI System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🧠 NLP / LLM / Retrieval
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### ⚙️ Engineering / Backend / MLOps
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### 🧠 AI Challenge 2026
+> Multimodal AI system for intelligent video understanding and retrieval.
+
+- Query Processing
+- Multimodal Retrieval
+- Vector Search
+- Information Retrieval
+- AI System Architecture
+
+🔗 [View Project](YOUR_REPOSITORY_LINK)
+
+---
+
+### 💰 BudgetBOT
+
+> An AI-powered personal budgeting assistant combining rule-based reasoning and Retrieval-Augmented Generation.
+
+- RAG
+- NLP
+- FastAPI
+- PostgreSQL
+- Vector Search
+- Backend Engineering
+
+🔗 [View Project](YOUR_REPOSITORY_LINK)
+
+---
+
+### 👁️ Computer Vision Projects
+
+> Exploring deep learning approaches for visual understanding and real-world AI applications.
+
+- Image Classification
+- Object Detection
+- Computer Vision
+- Deep Learning
+- OpenCV
+
+🔗 [View Projects](YOUR_REPOSITORY_LINK)
+
+---
+
+## 📚 Currently Learning
+
+```text
+AI Engineering
+├── Machine Learning
+├── Deep Learning
+├── Computer Vision
+├── NLP & LLMs
+├── RAG & Information Retrieval
+├── Vector Databases
+├── Multi-Agent Systems
+├── MLOps
+└── AI System Design
