@@ -47,14 +47,26 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 
 ## ⭐ Featured Projects
 
-## 📊 GitHub Stats
+### 📊 Engineering Metrics
+
+
 
 <div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=truongdogki&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img src="https://streak-stats.demolab.com/?user=truongdogki&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=truongdogki&theme=dark&hide_border=true&layout=compact" />
-
+  <h3>⚡ Recent Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waanney&theme=react-dark&hide_border=true&area=true" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=waanney&color=ff69b4&style=flat-square" />
+</div>
+
+<div align="center">
+  <h3>💡 Today's Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
