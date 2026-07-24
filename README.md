@@ -47,26 +47,22 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 
 ## ⭐ Featured Projects
 
-### 📊 Engineering Metrics
-
-
+### 📊 GitHub Activity
 
 <div align="center">
-  <h3>⚡ Recent Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waanney&theme=react-dark&hide_border=true&area=true" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=waanney&color=ff69b4&style=flat-square" />
-</div>
+<h3>⚡ Recent Activity</h3>
 
-<div align="center">
-  <h3>💡 Today's Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIVIETNAM-AIO-TruongDogki&hide_border=true&area=true" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-TruongDogki&style=flat-square" />
+
+<br/>
+
+<h3>🐍 Contribution Snake</h3>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
