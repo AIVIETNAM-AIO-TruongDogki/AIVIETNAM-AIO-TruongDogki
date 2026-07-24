@@ -67,28 +67,3 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 
 ---
 
-## ⚡ Recent Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIVIETNAM-AIO-TruongDogki&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-TruongDogki&style=flat-square" />
-
-</div>
