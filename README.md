@@ -44,7 +44,7 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured Project
 
 <table>
 <tr>
@@ -53,7 +53,7 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 ### 🔬 [TrialMatch-RAG](https://github.com/AIVIETNAM-AIO-TruongDogki/Proposal_TrialMatch-RAG)
 **Eligibility-Aware Clinical Trial Matching** · Benchmark: TREC Clinical Trials 2022
 
-Hybrid retrieval (BM25 + dense) kết hợp LLM-based reasoning để đánh giá từng tiêu chí eligibility (satisfied / violated / unverifiable), thay vì chỉ match theo độ liên quan chủ đề.
+Hybrid retrieval (BM25 + dense) combined with LLM-based reasoning to evaluate eligibility per criterion (satisfied / violated / unverifiable), rather than matching on topical relevance alone.
 
 `RAG` `Hybrid Retrieval` `LLM Reasoning` `Clinical NLP`
 
