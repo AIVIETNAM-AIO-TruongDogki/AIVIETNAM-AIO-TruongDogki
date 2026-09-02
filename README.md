@@ -45,7 +45,7 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 ---
 
 ## ⭐ Featured Projects
-
+🔗 Repository: https://github.com/AIVIETNAM-AIO-TruongDogki/Proposal_TrialMatch-RAG
 ---
 
 
