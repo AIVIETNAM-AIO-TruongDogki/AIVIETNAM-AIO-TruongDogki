@@ -45,8 +45,10 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 ---
 
 ## ⭐ Featured Projects
-🔬 TrialMatch-RAG — Eligibility-Aware Clinical Trial Matching (TREC Clinical Trials 2022)
-🔗 Repository: https://github.com/AIVIETNAM-AIO-TruongDogki/Proposal_TrialMatch-RAG
+
+**🔬 TrialMatch-RAG** — Eligibility-Aware Clinical Trial Matching (TREC Clinical Trials 2022)
+An eligibility-aware RAG system for patient-to-trial matching, combining hybrid retrieval with LLM-based criterion-level reasoning.
+🔗 [Repository](https://github.com/AIVIETNAM-AIO-TruongDogki/Proposal_TrialMatch-RAG)
 ---
 
 
