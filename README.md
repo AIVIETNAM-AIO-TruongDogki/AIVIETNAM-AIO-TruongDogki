@@ -54,7 +54,7 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 **Eligibility-Aware Clinical Trial Matching** · Benchmark: TREC Clinical Trials 2022
 
 Hybrid retrieval (BM25 + dense) combined with LLM-based reasoning to evaluate eligibility per criterion (satisfied / violated / unverifiable), rather than matching on topical relevance alone.
-
+ 
 `RAG` `Hybrid Retrieval` `LLM Reasoning` `Clinical NLP`
 
 </td>
