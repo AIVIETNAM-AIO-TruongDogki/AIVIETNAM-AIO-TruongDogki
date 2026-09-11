@@ -51,16 +51,16 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 <td width="100%">
 
 ### 🔬 [Proposal_TrialMatch-RAG](https://github.com/AIVIETNAM-AIO-TruongDogki/Proposal_TrialMatch-RAG)
-**AI-Assisted Personal Budget Planning Web App** · 
+**AI-Assisted Personal Budget Planning Web App** · Benchmark: TREC Clinical Trials 2022
 
 Hybrid retrieval (BM25 + dense) combined with LLM-based reasoning to evaluate eligibility per criterion (satisfied / violated / unverifiable), rather than matching on topical relevance alone.
  
 `RAG` `Hybrid Retrieval` `LLM Reasoning` `Clinical NLP`
 
 ### 🔬 [BudgetBOT](https://github.com/FinConquerer/BudgetBOT)
-**Eligibility-Aware Clinical Trial Matching** · Benchmark: TREC Clinical Trials 2022
+**Eligibility-Aware Clinical Trial Matching** · Top 8 out of over 50 teams in AIO Conquer 2026" bootcamp (Module 1)
 
-BudgetBOT is a team project (4 contributors) for the "AIO Conquer 2026" bootcamp (Module 1): a web app (React + FastAPI) where users chat with a bot to get budgeting FAQs and a personalized budget plan from a deterministic rule engine (50/30/20 rule, savings rate, emergency-fund sizing, goal-feasibility checks).
+A web app (React + FastAPI) where users chat with a bot to get budgeting FAQs and a personalized budget plan from a deterministic rule engine (50/30/20 rule, savings rate, emergency-fund sizing, goal-feasibility checks).
  
 `FastAPI` `Rule-based` `FAQ/intent-matching` `Clinical NLP`
 </td>
