@@ -59,7 +59,8 @@ Hybrid retrieval (BM25 + dense) combined with LLM-based reasoning to evaluate el
 
 ### 🔬 [BudgetBOT](https://github.com/FinConquerer/BudgetBOT) 
 
-**AI-Assisted Personal Budget Planning Web App** · Top 8 out of over 50 teams in AIO Conquer 2026" bootcamp (Module 1)
+**AI-Assisted Personal Budget Planning Web App** · Top 7 out of over 50 teams in AIO Conquer 2026" bootcamp (Module 1)
+
 A web app (React + FastAPI) where users chat with a bot to get budgeting FAQs and a personalized budget plan from a deterministic rule engine (50/30/20 rule, savings rate, emergency-fund sizing, goal-feasibility checks).
  
 `FastAPI` `Rule-based` `FAQ/intent-matching` `Clinical NLP`
