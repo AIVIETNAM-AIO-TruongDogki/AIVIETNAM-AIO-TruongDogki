@@ -51,7 +51,7 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 <td width="100%">
 
 ### 🔬 [Proposal_TrialMatch-RAG](https://github.com/AIVIETNAM-AIO-TruongDogki/Proposal_TrialMatch-RAG)
-**Eligibility-Aware Clinical Trial Matching** · Benchmark: TREC Clinical Trials 2022
+**Eligibility-Aware Clinical Trial Matching** · Benchmark: TREC Clinical Trials 2022 . Top 7 in AIO Conquer 2026 (Moule3)
 
 Hybrid retrieval (BM25 + dense) combined with LLM-based reasoning to evaluate eligibility per criterion (satisfied / violated / unverifiable), rather than matching on topical relevance alone.
  
