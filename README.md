@@ -44,30 +44,28 @@ My goal is to become an **AI Engineer** who can build reliable and scalable AI s
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 <table>
 <tr>
 <td width="100%">
 
-### 🔬 [Proposal_TrialMatch-RAG](https://github.com/AIVIETNAM-AIO-TruongDogki/Proposal_TrialMatch-RAG)
-**Eligibility-Aware Clinical Trial Matching** · Benchmark: TREC Clinical Trials 2022 . Top 7 in AIO Conquer 2026 (Moule3)
+### 🔬 [ResearchMind AI](https://github.com/AIVIETNAM-AIO-TruongDogki/AI_Document_Intelligence_System)
+**Enterprise Document Intelligence & Autonomous Deep Research Platform** · 62.5% LLM cost reduction · Faithfulness 0.95 · Hallucination 42% → <0.6%
 
-Hybrid retrieval (BM25 + dense) combined with LLM-based reasoning to evaluate eligibility per criterion (satisfied / violated / unverifiable), rather than matching on topical relevance alone.
+Hybrid RAG engine (BGE-M3 on Qdrant + Vietnamese-aware BM25 with RRF) guarded by a cross-encoder probability gatekeeper (~40ms rejection of off-topic queries), plus a stateful multi-agent deep research workflow built with LangGraph. Every claim is mapped to its source through a claim-level evidence registry (>99% citation ID validity), with n8n automation and human approval.
  
-`RAG` `Hybrid Retrieval` `LLM Reasoning` `Clinical NLP`
+`RAG` `Hybrid Retrieval` `LangGraph` `Multi-Agent` `FastAPI` `Qdrant` `n8n`
 
-### 🔬 [BudgetBOT](https://github.com/FinConquerer/BudgetBOT) 
+### 🎙️ [VietSpeech AI](https://github.com/AIVIETNAM-AIO-TruongDogki/Vietnamese-Speech-Intelligence-Translation-Platform)
 
-**AI-Assisted Personal Budget Planning Web App** · Top 7 out of over 50 teams in AIO Conquer 2026" bootcamp (Module 1)
+**Vietnamese Speech Intelligence & Translation Platform** · Northern, Central & Southern dialects · Evaluated with WER/CER
 
-A web app (React + FastAPI) where users chat with a bot to get budgeting FAQs and a personalized budget plan from a deterministic rule engine (50/30/20 rule, savings rate, emergency-fund sizing, goal-feasibility checks).
+End-to-end audio pipeline combining fine-tuned PhoWhisper speech recognition, speaker diarization, word-level alignment, and multilingual translation, orchestrated with LangGraph using confidence-based routing and retry mechanisms.
  
-`FastAPI` `Rule-based` `FAQ/intent-matching` `Clinical NLP`
+`PhoWhisper` `WhisperX` `ASR` `LangGraph` `PyTorch` `FastAPI`
 </td>
 </tr>
 </table>
+
 ---
-
-
-
